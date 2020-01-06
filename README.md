@@ -1,4 +1,4 @@
 # AngularJS_codes
 AngularJS_codes
 
-Recent works using AngularJS
+Simple but clear and cut understanding using AngularJS
